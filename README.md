@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning ...
    - AI
-   - Compiler
+   - Deep Learning Compiler
    - Cloud
+   - Parallel/Distributed System
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asuan99)](https://github.com/anuraghazra/github-readme-stats)
 
