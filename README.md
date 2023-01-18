@@ -19,6 +19,7 @@ Here are some ideas to get you started:
    - Deep Learning Compiler
    - Cloud
    - Parallel/Distributed System
+   - AI Accelerator
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=asuan99)](https://github.com/ryo-ma/github-profile-trophy)
 -->
