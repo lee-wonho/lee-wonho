@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h2>🌱 I’m currently learning ...</h1></div>
-<div align=center>
+<div align=left><h2>🌱 I’m currently learning ...</h1></div>
+<div align=left>
    <li>AI</li>
    <li>Deep Learning Compiler</li>
    <li>Cloud</li>
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
    <li>AI Accelerator</li>
   </div>
 
-<div align=center><h2>📚 STACKS</h1></div>
+<div align=left><h2>📚 STACKS</h1></div>
 
-<div align=center> 
+<div align=left> 
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
