@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <div align=left><h2>🌱 I’m currently learning ...</h1></div>
 <div align=left>
    <li>AI</li>
-   <li>Deep Learning Compiler</li>
-   <li>Cloud</li>
    <li>Parallel/Distributed System</li>
+   <li>Deep Learning Compiler</li>
    <li>AI Accelerator</li>
   </div>
 
